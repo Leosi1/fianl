@@ -1,0 +1,126 @@
+body {
+    background-image: url(../img/capamericawalp.jpg);
+    background-size: contain;
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+
+.marvellogo {
+    height: 50px;
+}
+
+.container1 {
+    background-color: #22262a;
+
+
+}
+
+.trailers {
+    background-color: #22262a;
+}
+
+
+.flex {
+
+    padding-top: 25px;
+}
+
+.flex1 {
+
+    padding-top: 25px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+
+
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+.satauri {
+    color: red;
+}
+
+
+.allchar1 {
+    width: 400px;
+    height: 300px;
+}
+
+.allchar {
+    width: 400px;
+}
+
+.h4 {
+    color: red;
+}
+
+.h1 {
+    color: red;
+}
+
+
+.TOP {
+    color: blue;
+    size: 20px;
+}
+
+
+.topheroes {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.facts {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pazlebi {
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+
+.pazlebi2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+
+.comics {
+    margin: 50px;
+}
+
+.videos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: red;
+}
+
+.irontext {
+    color: white;
+}
